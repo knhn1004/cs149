@@ -1,0 +1,14 @@
+  709  z 149
+  710  mkdir cs149
+  711  cd cs149
+  712  cursor .
+  713  pyenv shell 3.12.2
+  714  pwd
+  715  git init
+  716  git remote add origin git@github.com:knhn1004/cs149.git
+  717  git branch -m main
+  718  mkdir WS_bonus
+  719  cd WS_bonus
+  720  wget -O out.pdf https://tinyurl.com/yy94jltt
+  721  ls -latr
+  722  history > cmds.log
