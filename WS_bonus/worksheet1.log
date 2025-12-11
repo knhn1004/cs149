@@ -1,0 +1,7 @@
+  723  cd ~
+  724  git clone git://g.csail.mit.edu/xv6-labs-2023
+  725  cd xv6-labs-2023
+  726  git checkout util
+  727  make qemu
+  728  sleep 10
+  729  history > worksheet1.log
